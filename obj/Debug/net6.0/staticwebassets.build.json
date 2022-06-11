@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qwuiRYt+8ingEtz0u2aaIkpw0+MoyEd4jukW15zpXcU=",
+  "Source": "WebAPI+EFCore+SqlServer+Swagger",
+  "BasePath": "_content/WebAPI+EFCore+SqlServer+Swagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
